@@ -1,0 +1,26 @@
+button {
+  border-radius: 5px;
+  height: 4rem;
+  width: 8rem;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+.button {
+  background: #ff6146;
+}
+
+input {
+  border-radius: 5px;
+  height: 4rem;
+  width: 20rem;
+  font-size: 2rem;
+  text-align: center;
+}
+
+p {
+  font-size: 3rem;
+}
+
+.working {
+  font-size: large;
+}
